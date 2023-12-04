@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0KoWp3Qw9PDilpzsdtlFW7pLmXyewqI6MsPC0GvtbJXZJ1HC0tXqgYAmgF1Q9lZrsNk&usqp=CAU);
+}   
+
+#formulario{
+    background-color: rgb(192, 192, 223);
+    margin-top: 25%;
+    color: black;
+    width: 130%;
+    height: 78%;
+    text-align: left;
+    border-radius:15px ;
+    border: 2px solid black;
+
+}
+
+.form-group{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
+    line-height: 2.0;
+    height: 5%;
+    
+}
+
+.btna{
+    margin-left: 30%;
+    
+}
+.btn{
+    margin-top: 20%;
+    color: black;
+    padding: 5px;
+    margin-left: 20%;
+}
+
+.img-thumbnail{
+    height: 50%;
+    margin-top: 40%;
+}
