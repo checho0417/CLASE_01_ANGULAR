@@ -24,8 +24,13 @@ body{
 }
 
 .btna{
-    margin-left: 30%;
+    text-decoration: none;
+    color: black;
     
+}
+.ol{
+    color: black;
+    margin-left: 30%;
 }
 .btn{
     margin-top: 20%;
